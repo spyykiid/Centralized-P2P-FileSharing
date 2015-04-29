@@ -1,0 +1,2 @@
+ipaddress:10.205.3.186:8017;./shared;xyz.txt,lmn.txt
+ipaddress:10.205.3.172:8017;./shared;xyz.txt
